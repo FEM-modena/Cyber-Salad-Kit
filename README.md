@@ -26,14 +26,8 @@
 ## Collegamenti
 Per i collegamenti elettrici dei sensori ad Arduino fare riferimento alle guide tecniche online:
 
-[Installazione Arduino MKR e Sensori - Monitoraggio serbatoio]:
-https://sites.google.com/fem.digital/guide-kit-edu-green/cyber-salad-installazione-arduino-serbatoio
+[Installazione Arduino MKR e Sensori - Monitoraggio serbatoio](https://sites.google.com/fem.digital/guide-kit-edu-green/cyber-salad-installazione-arduino-serbatoio)
 
-[Installazione Arduino MKR e Sensori - Monitoraggio serbatoio]
-
-[Installazione Arduino MKR e Sensori - Monitoraggio piante]:
-https://sites.google.com/fem.digital/guide-kit-edu-green/cyber-salad-installazione-arduino-piante
-
-[Installazione Arduino MKR e Sensori - Monitoraggio piante]
+[Installazione Arduino MKR e Sensori - Monitoraggio piante](https://sites.google.com/fem.digital/guide-kit-edu-green/cyber-salad-installazione-arduino-piante)
 
 
