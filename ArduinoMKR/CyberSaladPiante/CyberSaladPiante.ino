@@ -16,7 +16,7 @@
 #define SECRET_PASS "wifipassword"
 #define CHIAVE_CLOUD "FEMCyberSalad_piante1"
 
-char dboard_server[] = "demo.thingsboard.io"; // Indirizzo IP/Internet del Dashboard Server
+char dboard_server[] = "iot.fem.digital"; // Indirizzo IP/Internet del Dashboard Server
 int dboard_port = 80;                         // Porta IP del server
 
 //Variabili
